@@ -1,0 +1,5 @@
+[arguments]
+credentials_json = datarobot-66e3cbde53e5.json
+calc_window = 4
+ssheet_Id = 1heBaW3KNDBv0fvKFDcNJBGZRb6k1FtogXQq1AQjWs2U
+scope = https://spreadsheets.google.com/feeds

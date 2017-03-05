@@ -1,0 +1,5 @@
+{
+  "test_movingaveragcalc.py::MovingAverageCalcTest::test_get_data": true,
+  "test_movingaveragcalc.py::MovingAverageCalcTest::test_get_data_no_data": true,
+  "test_movingaveragcalc.py::MovingAverageCalcTest::test_get_data_wrongId": true
+}
